@@ -1,2 +1,1 @@
-# thiru_portfolio
-Portfolio project
+# Portfolio project
